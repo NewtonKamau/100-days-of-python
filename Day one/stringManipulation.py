@@ -1,0 +1,1 @@
+print("this is day one \n let me see if I'm upto the challenge\n hopefully I become an AI engineer after this" + " "+"Newton God got you")
