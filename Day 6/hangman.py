@@ -1,8 +1,8 @@
 import random
 from stages import stages
-
+from hangman_word import word_list
 # Word bank
-word_list = ["python", "java", "javascript", "csharp", "hangman", "developer"]
+word_list = word_list
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 
